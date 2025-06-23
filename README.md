@@ -1,4 +1,8 @@
 # Exploring Generative Artificial Intelligence and Data Augmentation Techniques for Spectroscopy Analysis
+This is repository is related to the information and methods discussed in our article. 
+
+Check it out at:
+https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00815
 
 # Installation
 
